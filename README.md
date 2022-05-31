@@ -21,9 +21,6 @@ Front-end web and mobile developer
 ### Contact
 
 <div>
-<a href="https://twitter.com/LVince15" target="_blank">
-  <img height="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" /> 
-</a>
 <a href="https://www.linkedin.com/in/lucas-vicente-077852191/" target="_blank" >
   <img height="30em" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" /> 
 </a>  
