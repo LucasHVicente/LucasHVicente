@@ -1,6 +1,6 @@
 ### Hello there, i'm Lucas Vicente 
 
-Front-end web and mobile developer
+Frontend web and mobile developer
 
 
 <div>
