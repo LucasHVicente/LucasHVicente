@@ -9,14 +9,7 @@ Frontend web and mobile developer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashvicente&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,c,cpp,sass,tailwind,styledcomponents,mysql,sqlite,firebase,git,linux,vscode,vercel,arduino,react,redux,nextjs,nodejs,express,vue,vite,materialui,figma)](https://skillicons.dev)
 
 ### Contact
 
