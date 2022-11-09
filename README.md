@@ -1,11 +1,9 @@
-### Hello there, i'm Lucas Vicente 
+### Hi, i'm Lucas
 
-Frontend web and mobile developer
-
+I'm a Front-end web and mobile developer.
 
 <div>
   <a href="https://github.com/lucashvicente">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashvicente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashvicente&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
